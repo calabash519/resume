@@ -1,0 +1,30 @@
+{
+  "name": " personal resume",
+  "version": "1.0.0",
+  "description": "cala's resume ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calabash519/my-projects.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "DIYgod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calabash519/my-projects/Resume/issues"
+  },
+  "homepage": "https://github.com/calabash519/my-projects/Resume/#readme",
+  "devDependencies": {
+    "browser-sync": "^2.10.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.0"
+  }
+}
